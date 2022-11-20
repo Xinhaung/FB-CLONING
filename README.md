@@ -1,8 +1,8 @@
 # FB-CLONING
 
-#This Command Is Made By Milan Bhandari
-#This Command Is Made To Clone Facebook Accounts
-#Use Termux App To Use This Command
+# This Command Is Made By Milan Bhandari
+# This Command Is Made To Clone Facebook Accounts
+# Use Termux App To Use This Command
 
 ## Dependencies
 
