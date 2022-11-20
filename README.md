@@ -10,14 +10,23 @@
 
 ## Installation
 apt update
+
 apt upgrade
+
 pkg install python2
+
 pkg install git
+
 pip2 install mechanize
+
 pip2 install requests
+
 pip2 install lolcat
+
 git clone https://github.com/milan-says/FB-CLONING.git
+
 cd MILAN
+
 python2 Milan.py
 
 ##Correct Username And Password
