@@ -29,9 +29,9 @@ cd MILAN
 
 python2 Milan.py
 
-##Correct Username And Password
+##CorrectUsernameAndPassword
 CorrectUsername = "Milan"
 CorrectPassword = "Bhandari"
 
-##Jay Nepal
-##Team Joker
+##JayNepal
+##TeamJoker
