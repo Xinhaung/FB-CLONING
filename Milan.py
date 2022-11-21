@@ -114,7 +114,7 @@ def login():
 		os.system('clear')
 		print logo
      	
-		jalan(' \033[1;31m---> \033[1;93mWarning: \033[1;96mDONOT USE WIFI.THIS WILL WORK ONLY ON SIM DATA' )
+		jalan(' \033[1;31m---> \033[1;93mWarning: \033[1;96mDONOT USE WIFI.THIS WILL WORK ONLY ON MOBILE DATA' )
 		jalan(' \033[1;31m---> \033[1;93mWarning: \033[1;96mUse a New Account To Login' )
 		jalan(' \033[1;31m---> \033[1;93mWarning: \033[1;31mEDITING MY SCRIPT WILL NOT MAKE YOU A CODER✅' ) 
 		jalan(' \033[1;31m---> \033[1;96m FUCK ALL FACEBOOK ACCOUNTS ')
